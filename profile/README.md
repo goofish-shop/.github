@@ -3,4 +3,4 @@
 
 
 
-![](./go-fish.png)
+![](go-fish.png)
