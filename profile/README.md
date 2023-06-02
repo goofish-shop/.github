@@ -3,4 +3,4 @@
 
 
 
-![](https://img.xjh.me/random_img.php)
+![](http://www.dmoe.cc/random.php)
