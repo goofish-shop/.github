@@ -31,3 +31,6 @@
 8. 技术支持，让您的IT困难变得轻松简单！
 9. 我们的技术支持，让您的业务更加智能、高效！
 10. 技术支持，让您的业务更具可持续性！
+
+
+![](https://raw.githubusercontent.com/ahKevinXy/ahKevinXy.github.io/gh-pages/img/home.jpg)
